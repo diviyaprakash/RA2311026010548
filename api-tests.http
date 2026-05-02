@@ -1,0 +1,12 @@
+### Step 1 - Register (run ONCE only)
+POST http://20.207.122.201/evaluation-service/register
+Content-Type: application/json
+
+{
+  "email": "db1754@srmist.edu.in",
+  "name": "Diviyapraksh G B",
+  "mobileNo": "9843099946",
+  "githubUsername": "diviyaprakash",
+  "rollNo": "RA2311026010548",
+  "accessCode": "QkbpxH"
+}
